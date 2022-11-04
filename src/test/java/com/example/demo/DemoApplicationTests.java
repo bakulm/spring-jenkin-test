@@ -17,7 +17,7 @@ class DemoApplicationTests {
 		
 	log.info("Test case executing ...");
 	log.info("Test case executing second statement...");
-	assertEquals(true, true);
+	assertEquals(true, false);
 	}
 
 }
